@@ -1,0 +1,27 @@
+.list-inline{
+	border-radius: 5px;
+	margin: 20px 0px;
+	text-align: center;
+	text-decoration: none;
+	list-style: none;
+	padding-left: 0px;
+	display: inline;
+	font-size: 50px;
+	color: grey;
+}
+
+.list-inline li {
+	display: inline;
+}
+
+.list-inline a {
+	color: #0a2431;
+}
+
+.list-inline a:hover {
+	color: #bd9a67;
+}
+
+.socialnetworks {
+	margin-top: 100px;
+}
